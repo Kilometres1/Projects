@@ -3,4 +3,10 @@
   It uses an ATTiny85 Chip as its processor, a 128x64 SSD1306 OLED and a small LiPo battery. In low power mode it draws 0.1μA, and in use it draws 4.75mA, both at 5V [Be aware, power consumption appears to be highly variable from chip to chip].
   The Hatsune Miku image was copied off of the official Hatsune Mike Tamagotchis. 
 ### Wiring diagram
-![Wiring for the Device](Wiring.png)
+![Wiring for the Device](pictures/Wiring.png)
+### Images
+
+| 3D model | Photo |
+| --- | --- |
+| ![3d model of the device](pictures/tamagotchiedit.gif) | ![image of the device](pictures/tama.jpg)
+(Forgive the rushed paint job) |
