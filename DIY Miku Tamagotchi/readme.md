@@ -9,4 +9,4 @@
 | 3D model | Photo |
 | --- | --- |
 | ![3d model of the device](pictures/tamagotchiedit.gif) | ![image of the device](pictures/tama.jpg)
-(Forgive the rushed paint job) |
+| Modelled in Blender | (Forgive the rushed paint job) |
